@@ -1,0 +1,15 @@
+C:\Users\HOME\RiderProjects\Polytech416\Lesson4\bin\Debug\net9.0\Lesson4.exe
+C:\Users\HOME\RiderProjects\Polytech416\Lesson4\bin\Debug\net9.0\Lesson4.deps.json
+C:\Users\HOME\RiderProjects\Polytech416\Lesson4\bin\Debug\net9.0\Lesson4.runtimeconfig.json
+C:\Users\HOME\RiderProjects\Polytech416\Lesson4\bin\Debug\net9.0\Lesson4.dll
+C:\Users\HOME\RiderProjects\Polytech416\Lesson4\bin\Debug\net9.0\Lesson4.pdb
+C:\Users\HOME\RiderProjects\Polytech416\Lesson4\obj\Debug\net9.0\Lesson4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\RiderProjects\Polytech416\Lesson4\obj\Debug\net9.0\Lesson4.AssemblyInfoInputs.cache
+C:\Users\HOME\RiderProjects\Polytech416\Lesson4\obj\Debug\net9.0\Lesson4.AssemblyInfo.cs
+C:\Users\HOME\RiderProjects\Polytech416\Lesson4\obj\Debug\net9.0\Lesson4.csproj.CoreCompileInputs.cache
+C:\Users\HOME\RiderProjects\Polytech416\Lesson4\obj\Debug\net9.0\Lesson4.sourcelink.json
+C:\Users\HOME\RiderProjects\Polytech416\Lesson4\obj\Debug\net9.0\Lesson4.dll
+C:\Users\HOME\RiderProjects\Polytech416\Lesson4\obj\Debug\net9.0\refint\Lesson4.dll
+C:\Users\HOME\RiderProjects\Polytech416\Lesson4\obj\Debug\net9.0\Lesson4.pdb
+C:\Users\HOME\RiderProjects\Polytech416\Lesson4\obj\Debug\net9.0\Lesson4.genruntimeconfig.cache
+C:\Users\HOME\RiderProjects\Polytech416\Lesson4\obj\Debug\net9.0\ref\Lesson4.dll

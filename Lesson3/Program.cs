@@ -26,5 +26,6 @@
 
         // Статический метод
         Student.UniversityRules();
+        
     }
 }
