@@ -1,4 +1,5 @@
-﻿using System.Data.Common;
+﻿using System.Collections;
+using System.Data.Common;
 using System.Threading.Channels;
 
 namespace Lesson2;
@@ -135,7 +136,7 @@ class Program
         students.Add("Sharifjon", new List<int> { 10, 9, 9 });
         Dictionary<string, double> averageScore = new Dictionary<string, double>();
         foreach (var student in students)
-            averageScore.Add(student.Key, student.Value.Sum() / 3);
+            averageScore.Add(student.Key, student.Value.Average());
         foreach (var score in averageScore)
             Console.WriteLine($"{score.Key}: {score.Value} ");
         Console.WriteLine();
@@ -154,5 +155,16 @@ class Program
         symbols.Remove(' ');
         foreach (var symbol in symbols)
             Console.WriteLine($"{symbol.Key}: {symbol.Value} ");
+        Console.WriteLine();
+        
+        // <-- Hashtable -->
+        Hashtable myTable = new Hashtable();
+        myTable.Add("Bakhtovar", 19);
+        myTable.Add("Akbar", 17);
+        myTable.Add("Abdullo", 16);
+        myTable.Clear();
+
+        foreach (var table in myTable)
+            Console.WriteLine(table);
     }
 }

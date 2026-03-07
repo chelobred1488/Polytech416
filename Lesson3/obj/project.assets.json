@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HOME\\RiderProjects\\Polytech416\\Lesson2\\Lesson2.csproj",
-      "projectName": "Lesson2",
-      "projectPath": "C:\\Users\\HOME\\RiderProjects\\Polytech416\\Lesson2\\Lesson2.csproj",
+      "projectUniqueName": "C:\\Users\\HOME\\RiderProjects\\Polytech416\\Lesson3\\Lesson3.csproj",
+      "projectName": "Lesson3",
+      "projectPath": "C:\\Users\\HOME\\RiderProjects\\Polytech416\\Lesson3\\Lesson3.csproj",
       "packagesPath": "C:\\Users\\HOME\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HOME\\RiderProjects\\Polytech416\\Lesson2\\obj\\",
+      "outputPath": "C:\\Users\\HOME\\RiderProjects\\Polytech416\\Lesson3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
