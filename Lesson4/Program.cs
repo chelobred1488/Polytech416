@@ -39,5 +39,19 @@ class Program
         money.Balance();
         money.Daromad(20.65m);
         money.Balance();
+        Console.WriteLine();
+        
+        // Масъалаи 26.5
+        Car kia = new Car("KIA", "K5", "1488CS20", "Сафед", 2015, 4);
+        Driver bakhtovar = new Driver("Бахтовар", "Исматджонов", "А05485369", 512583697, "+992937770771", "Мард", "26.06.2006", "к. Таги Сада 175", "08,03,2026", kia);
+        bakhtovar.Display();
+        bakhtovar.Zakaz(5);
+        Console.WriteLine();
+        
+        // Масъалаи 26.6
+        Car bmw = new Car("BMW", "M5 F10", "2552MS02", "Сиёх", 2019, 4);
+        Driver muhayo = new Driver("Мухайё", "Сатторова", "А03654789", 515520369, "+992920062606", "Зан", "24.11.2006",
+            "к. Юрий Гагарин 39а", "08.03.2026", bmw);
+        muhayo.Display();
     }
 }
